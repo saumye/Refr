@@ -1,0 +1,4 @@
+configurations.create("default")
+artifacts.add("default", file('picasso-2.4.0.jar'))
+dependencies {
+}
